@@ -1,0 +1,1 @@
+# [Minimum Distinct](https://www.codechef.com/START226D/problems/MINDIS6)

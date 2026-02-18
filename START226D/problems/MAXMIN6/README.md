@@ -1,0 +1,1 @@
+# [Max Minus Min](https://www.codechef.com/START226D/problems/MAXMIN6)

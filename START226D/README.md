@@ -1,0 +1,8 @@
+# [STARTERS 226](https://www.codechef.com/START226D/)
+1.[Rush to Exam](https://www.codechef.com/START226D/problems/RUSHTOEXAM)
+2. [IceCream Cones](https://www.codechef.com/START226D/problems/ICECONE6)
+3. [Sub A Add B](https://www.codechef.com/START226D/problems/SUBAADDB)
+4. [Minimum Distinct](https://www.codechef.com/START226D/problems/MINDIS6)
+5. [Max Minus Min](https://www.codechef.com/START226D/problems/MAXMIN6)
+6. [Array Graph](https://www.codechef.com/START226D/problems/ARRGRAPH6)
+7. [Good Subarrays](https://www.codechef.com/START226D/problems/GOODSUB6)
