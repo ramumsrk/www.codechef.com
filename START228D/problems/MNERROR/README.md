@@ -1,0 +1,1 @@
+# [Minimize Error|MNERROR](https://www.codechef.com/START228D/problems/MNERROR)

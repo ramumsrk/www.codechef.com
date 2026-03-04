@@ -1,0 +1,1 @@
+# [Unique Sum 1|UNQFUNC1](https://www.codechef.com/START228D/problems/UNQFUNC1)
