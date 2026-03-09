@@ -1,0 +1,1 @@
+# [Alternating Array|ALTNUMS](https://www.codechef.com/skill-test/DSAMONDAY28/problems/ALTNUMS)

@@ -1,1 +1,6 @@
 # [DSAMONDAY28|Monday Munch - DSA Challenge 28](https://www.codechef.com/skill-test/DSAMONDAY28)
+1. [Alternating Array|ALTNUMS](./problems/ALTNUMS/)
+2. [Chef and the Magical Subarray|MAXPROSUBARR](./problems/MAXPROSUBARR/)
+3. [Largest bst in binary tree|BSTITERATOR](./problems/BSTITERATOR/)
+4. [Binary Search Tree Iterator|EKMPU01](./problems/EKMPU01/)
+5. [Chef Finds Cheapest Flights|SZICS01](./problems/SZICS01/)

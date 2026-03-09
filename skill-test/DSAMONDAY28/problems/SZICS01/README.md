@@ -1,0 +1,1 @@
+# [Chef Finds Cheapest Flights|SZICS01](https://www.codechef.com/skill-test/DSAMONDAY28/problems/SZICS01)

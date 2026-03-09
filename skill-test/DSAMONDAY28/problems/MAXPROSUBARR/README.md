@@ -1,0 +1,1 @@
+# [Chef and the Magical Subarray|MAXPROSUBARR](https://www.codechef.com/skill-test/DSAMONDAY28/problems/MAXPROSUBARR)
