@@ -1,0 +1,6 @@
+# [problems](https://www.codechef.com/skill-test/DSAMONDAY28/problems)
+1. [Alternating Array|ALTNUMS](./ALTNUMS/)
+2. [Chef and the Magical Subarray|MAXPROSUBARR](./MAXPROSUBARR/)
+3. [Largest bst in binary tree|BSTITERATOR](./BSTITERATOR/)
+4. [Binary Search Tree Iterator|EKMPU01](./EKMPU01/)
+5. [Chef Finds Cheapest Flights|SZICS01](./SZICS01/)
