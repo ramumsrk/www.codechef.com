@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START229D/problems)
+1. [Vacation Excitement|VACAEX](./VACAEX/)
+2. [All Zero|ALLZR](./ALLZR/)
+3. [Sequential Clamp|SEQCLAMP](./SEQCLAMP/)
+4. [Sum Not Equal|NOTSUM](./NOTSUM/)
+5. [Minimal Usage|MNUSE](./MNUSE/)
+6. [Start Shift|SHFTPAL](./SHFTPAL/)
+7. [Unequal Split|UNEQSP](./UNEQSP/)

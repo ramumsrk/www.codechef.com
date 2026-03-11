@@ -1,0 +1,1 @@
+# [All Zero|ALLZR](https://www.codechef.com/START229D/problems/ALLZR)

@@ -1,0 +1,1 @@
+# [Sum Not Equal|NOTSUM](https://www.codechef.com/START229D/problems/NOTSUM)

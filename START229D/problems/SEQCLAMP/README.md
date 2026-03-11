@@ -1,0 +1,1 @@
+# [Sequential Clamp|SEQCLAMP](https://www.codechef.com/START229D/problems/SEQCLAMP)

@@ -1,0 +1,1 @@
+# [Minimal Usage|MNUSE](https://www.codechef.com/START229D/problems/MNUSE)

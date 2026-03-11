@@ -1,0 +1,10 @@
+# [START229D|Starters 229|STARTERS 229](https://www.codechef.com/START229D)
+1. [Vacation Excitement|VACAEX](./problems/VACAEX/)
+2. [All Zero|ALLZR](./problems/ALLZR/)
+3. [Sequential Clamp|SEQCLAMP](./problems/SEQCLAMP/)
+4. [Sum Not Equal|NOTSUM](./problems/NOTSUM/)
+5. [Minimal Usage|MNUSE](./problems/MNUSE/)
+6. [Start Shift|SHFTPAL](./problems/SHFTPAL/)
+7. [Unequal Split|UNEQSP](./problems/UNEQSP/)
+## Contest Ranks
+[Go to Contest Ranks](https://www.codechef.com/rankings/START229D)

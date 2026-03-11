@@ -1,0 +1,1 @@
+# [Unequal Split|UNEQSP](https://www.codechef.com/START229D/problems/UNEQSP)
