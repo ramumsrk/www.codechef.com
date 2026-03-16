@@ -1,0 +1,1 @@
+# [ZCIBE01](https://www.codechef.com/skill-test/DSAMONDAY29/problems/ZCIBE01)

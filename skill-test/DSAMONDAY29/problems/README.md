@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/skill-test/DSAMONDAY29/problems)
+1. [LLCYCLE](./LLCYCLE/)
+2. [ADDONELL](./ADDONELL/)
+3. [HSUON01](./HSUON01/)
+4. [JQJTY01](./JQJTY01/)
+5. [ZCIBE01](./ZCIBE01/)
+6. [TWOUNIQUE](./TWOUNIQUE/)

@@ -1,0 +1,7 @@
+# [Monday Munch - DSA Challenge 29](https://www.codechef.com/skill-test/DSAMONDAY29)
+1. [LLCYCLE](./problems/LLCYCLE/)
+2. [ADDONELL](./problems/ADDONELL/)
+3. [HSUON01](./problems/HSUON01/)
+4. [JQJTY01](./problems/JQJTY01/)
+5. [ZCIBE01](./problems/ZCIBE01/)
+6. [TWOUNIQUE](./problems/TWOUNIQUE/)
