@@ -1,0 +1,7 @@
+# [DSAMONDAY30|Monday Munch - DSA Challenge 30](www.codechef.com/skill-test/DSAMONDAY30)
+1. [INSERTPOS](./problems/INSERTPOS/)
+2. [MINEATING](./problems/MINEATING/)
+3. [BOTTOMBINARY](./problems/BOTTOMBINARY/)
+4. [SYMMETRICTRE](./problems/SYMMETRICTRE/)
+5. [BURNBT](./problems/BURNBT/)
+6. [ITERATIVEPRE](./problems/ITERATIVEPRE/)
