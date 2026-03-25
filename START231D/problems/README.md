@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START231D/problems)
+1. [Snaky Strings|SSNK](./SSNK/)
+2. [Imperfect Numbers|NO25PLS](./NO25PLS/)
+3. [Double Discount|DBDISC](./DBDISC/)
+4. [Target Temperature|RESETZ](./RESETZ/)
+5. [Recurrence Reachability|SUPSKIP](./SUPSKIP/)
+6. [Constrained Chopping|PRSUGM](./PRSUGM/)
+7. [Extended Viewing|STAYLONG](./STAYLONG)

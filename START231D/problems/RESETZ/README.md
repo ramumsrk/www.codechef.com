@@ -1,0 +1,1 @@
+# [Target Temperature|RESETZ](https://www.codechef.com/START231D/problems/RESETZ)

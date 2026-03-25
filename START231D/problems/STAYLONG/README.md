@@ -1,0 +1,1 @@
+# [Extended Viewing|STAYLONG](https://www.codechef.com/START231D/problems/STAYLONG)
