@@ -1,4 +1,4 @@
-# [DSAMONDAY31|Monday Munch - DSA Challenge 31](https://www.codechef.com/skill-test/DSAMONDAY31)
+# [problems](https://www.codechef.com/skill-test/DSAMONDAY31/problems)
 1. [MAXPATHSUM](./MAXPATHSUM/)
 2. [XGWUY01](./XGWUY01/)
 3. [VERTICALTRAV](./VERTICALTRAV/)
