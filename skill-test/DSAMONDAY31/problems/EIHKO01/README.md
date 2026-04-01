@@ -1,0 +1,1 @@
+# [EIHKO01](https://www.codechef.com/skill-test/DSAMONDAY31/problems/EIHKO01)
