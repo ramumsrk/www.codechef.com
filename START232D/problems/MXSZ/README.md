@@ -1,0 +1,1 @@
+# [Max Size|MXSZ](https://www.codechef.com/START232D/problems/MXSZ)

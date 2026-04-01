@@ -1,0 +1,1 @@
+# [Food Resources|FOODRES](https://www.codechef.com/START232D/problems/FOODRES)

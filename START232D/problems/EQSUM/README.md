@@ -1,0 +1,1 @@
+# [Equal Difference|EQSUM](https://www.codechef.com/START232D/problems/EQSUM)

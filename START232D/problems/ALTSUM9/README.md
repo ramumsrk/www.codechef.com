@@ -1,0 +1,1 @@
+# [Alternating Sum|ALTSUM9](https://www.codechef.com/START232D/problems/ALTSUM9)
