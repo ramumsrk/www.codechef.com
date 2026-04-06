@@ -1,0 +1,1 @@
+# [IUAIS01](https://www.codechef.com/skill-test/DSAMONDAY32/problems/IUAIS01)
