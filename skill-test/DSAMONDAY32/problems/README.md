@@ -1,1 +1,7 @@
 # [problems](https://www.codechef.com/skill-test/DSAMONDAY32/problems)
+1. [PREINPOST](./PREINPOST/)
+2. [NASTA01](./NASTA01/)
+3. [INSERTBST](./INSERTBST/)
+4. [MPYSW01](./MPYSW01/)
+5. [IUAIS01](./IUAIS01/)
+6. [NZRYT01](./NZRYT01/)

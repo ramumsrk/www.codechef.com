@@ -1,1 +1,7 @@
 # [DSAMONDAY32|Monday Munch - DSA Challenge 32](https://www.codechef.com/skill-test/DSAMONDAY32)
+1. [PREINPOST](./problems/PREINPOST/)
+2. [NASTA01](./problems/NASTA01/)
+3. [INSERTBST](./problems/INSERTBST/)
+4. [MPYSW01](./problems/MPYSW01/)
+5. [IUAIS01](./problems/IUAIS01/)
+6. [NZRYT01](./problems/NZRYT01/)
