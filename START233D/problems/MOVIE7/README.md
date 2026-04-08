@@ -1,0 +1,1 @@
+# [Movie|MOVIE7](https://www.codechef.com/START233D/problems/MOVIE7)

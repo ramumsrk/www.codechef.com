@@ -1,0 +1,1 @@
+# [Median Updates|MEDUPD](https://www.codechef.com/START233D/problems/MEDUPD)
