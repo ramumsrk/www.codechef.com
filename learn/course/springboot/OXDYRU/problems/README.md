@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/learn/course/springboot/OXDYRU/problems)
+1. [VCOYXL02B|Working of first springboot application](./VCOYXL02B/)
+2. [VCOYXL03|Understanding Your Spring Boot Project Structure](./VCOYXL03/)
+3. [VCOYXL05|When You Run a Spring Boot Application](./VCOYXL05/)
+4. [IWHYLE01|Understand the Code of Your First Spring Boot App](./IWHYLE01/)
+5. [IWHYLE02|Role of SpringBootApplication](./IWHYLE02/)
+6. [IWHYLE03|Identify Spring Boot Project Structure](./IWHYLE03/)
+7. [IWHYLE04|Embedded Server in Spring Boot](./IWHYLE04/)
