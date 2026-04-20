@@ -1,0 +1,1 @@
+# [DSAAGP36](https://www.codechef.com/skill-test/DSAMONDAY34/problems/DSAAGP36)

@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/skill-test/DSAMONDAY34/problems)
+1. [RATINGPEPS](./RATINGPEPS/)
+2. [RECUR07](./RECUR07/)
+3. [DSAAGP36](./DSAAGP36/)
+4. [PREP51](./PREP51/)
+5. [RECUR31](./RECUR31/)
+6. [CANDYDIST](./CANDYDIST/)
