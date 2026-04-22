@@ -1,0 +1,1 @@
+# [P5235|MEX Spectrum](https://www.codechef.com/START235D/problems/P5235)
