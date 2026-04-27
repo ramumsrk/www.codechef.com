@@ -1,0 +1,1 @@
+# [PREP27](https://www.codechef.com/skill-test/DSAMONDAY35/problems/PREP27)

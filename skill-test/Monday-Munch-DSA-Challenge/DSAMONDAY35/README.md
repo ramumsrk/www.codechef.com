@@ -1,0 +1,7 @@
+# [DSAMONDAY35|Monday Munch - DSA Challenge 35](https://www.codechef.com/skill-test/DSAMONDAY35)
+1. [CHESSTOUR](./problems/CHESSTOUR/)
+2. [RUNCOMPARE](./problems/RUNCOMPARE/)
+3. [PREP27](./problems/PREP27/)
+4. [DSAAGP1098](./problems/DSAAGP1098/)
+5. [PREP35](./problems/PREP35/)
+6. [KXTUW01](./problems/KXTUW01/)

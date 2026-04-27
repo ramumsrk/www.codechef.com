@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/skill-test/DSAMONDAY35/problems)
+1. [CHESSTOUR](./CHESSTOUR/)
+2. [RUNCOMPARE](./RUNCOMPARE/)
+3. [PREP27](./PREP27/)
+4. [DSAAGP1098](./DSAAGP1098/)
+5. [PREP35](./PREP35/)
+6. [KXTUW01](./KXTUW01/)
