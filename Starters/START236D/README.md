@@ -1,0 +1,8 @@
+# [START236D|STARTERS 236|Starters 236 (Rated till 5 star)](https://www.codechef.com/START236D)
+1. [EXGS|Extra Guests](./problems/EXGS/)
+2. [UWUWU|Cute Substrings](./problems/UWUWU/)
+3. [PALKINS|Palindrome Check](./problems/PALKINS/)
+4. [SHFSRT|Shift And Sort](./problems/SHFSRT/)
+5. [MINDSTC|Minimize Distinct](./problems/MINDSTC/)
+6. [ALLASIDE|All Aside](./problems/ALLASIDE/)
+7. [GETMAXK|MEXimal Moving](./problems/GETMAXK/)

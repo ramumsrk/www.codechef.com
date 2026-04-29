@@ -1,0 +1,1 @@
+# [MINDSTC|Minimize Distinct](https://www.codechef.com/START236D/problems/MINDSTC)

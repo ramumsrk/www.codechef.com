@@ -1,0 +1,1 @@
+# [ALLASIDE|All Aside](https://www.codechef.com/START236D/problems/ALLASIDE)

@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START236D/problems)
+1. [EXGS|Extra Guests](./EXGS/)
+2. [UWUWU|Cute Substrings](./UWUWU/)
+3. [PALKINS|Palindrome Check](./PALKINS/)
+4. [SHFSRT|Shift And Sort](./SHFSRT/)
+5. [MINDSTC|Minimize Distinct](./MINDSTC/)
+6. [ALLASIDE|All Aside](./ALLASIDE/)
+7. [GETMAXK|MEXimal Moving](./GETMAXK/)

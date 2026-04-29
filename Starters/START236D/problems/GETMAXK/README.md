@@ -1,0 +1,1 @@
+# [GETMAXK|MEXimal Moving](https://www.codechef.com/START236D/problems/GETMAXK)

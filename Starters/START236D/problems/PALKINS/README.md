@@ -1,0 +1,1 @@
+# [PALKINS|Palindrome Check](https://www.codechef.com/START236D/problems/PALKINS)
