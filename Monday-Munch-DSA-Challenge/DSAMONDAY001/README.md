@@ -5,3 +5,5 @@
 4. [PREP35P|Graphs - Capture Regions](./problems/PREP35P/)
 5. [PASSPRO|Password protection](./problems/PASSPRO/)
 6. [MAJORELE2P|Superstar Dishes](./problems/MAJORELE2P/)
+## Rankings
+[rankings](https://www.codechef.com/rankings/DSAMONDAY001)
