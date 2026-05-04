@@ -1,0 +1,1 @@
+# [FYBGY01|Chef Removes Stones](https://www.codechef.com/DSAMONDAY001/problems/FYBGY01)

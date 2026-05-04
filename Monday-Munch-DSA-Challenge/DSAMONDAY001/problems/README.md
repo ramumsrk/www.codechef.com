@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY001/problems)
+1. [HRYQX01|Chef Builds Twitter](./HRYQX01/)
+2. [FYBGY01|Chef Removes Stones](./FYBGY01/)
+3. [PEAKINARRAY1|Find the peak elements in an array](./PEAKINARRAY1/)
+4. [PREP35P|Graphs - Capture Regions](./PREP35P/)
+5. [PASSPRO|Password protection](./PASSPRO/)
+6. [MAJORELE2P|Superstar Dishes](./MAJORELE2P/)

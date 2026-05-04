@@ -1,0 +1,7 @@
+# [DSAMONDAY001|Monday Munch - DSA Challenge 001 (Rated)](https://www.codechef.com/DSAMONDAY001)
+1. [HRYQX01|Chef Builds Twitter](./problems/HRYQX01/)
+2. [FYBGY01|Chef Removes Stones](./problems/FYBGY01/)
+3. [PEAKINARRAY1|Find the peak elements in an array](./problems/PEAKINARRAY1/)
+4. [PREP35P|Graphs - Capture Regions](./problems/PREP35P/)
+5. [PASSPRO|Password protection](./problems/PASSPRO/)
+6. [MAJORELE2P|Superstar Dishes](./problems/MAJORELE2P/)
