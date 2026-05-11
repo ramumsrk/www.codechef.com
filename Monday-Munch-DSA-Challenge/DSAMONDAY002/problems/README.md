@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY002/problems)
+1. [CHEFRUNS|Chef need runs](./CHEFRUNS/)
+2. [ITHBITSET|Is the i-th bit set](./ITHBITSET/)
+3. [CVDMX01|Chef Builds Subsets](./CVDMX01/)
+4. [LARGODDSTRIN|Largest Odd Substring](./LARGODDSTRIN/)
+5. [SHORTPALINDR|Shortest Palindrome](./SHORTPALINDR/)
+6. [FLOORANDCEIL|Floor and Ceil in a Binary Search Tree](./FLOORANDCEIL/)
