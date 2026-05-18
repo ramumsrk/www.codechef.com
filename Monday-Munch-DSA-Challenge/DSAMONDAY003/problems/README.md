@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY003/problems)
+1. [CHEFLAPTOP|Chef wants to buy a laptop](./CHEFLAPTOP/)
+2. [DSAAGP384|Duplicate Integers](./DSAAGP384/)
+3. [DELMIDLL|Delete the Middle Node of a Linked List](./DELMIDLL/)
+4. [FINDPEAK|Find Peak Element](./FINDPEAK/)
+5. [MATRIXMEDIAN|Matrix Median](./MATRIXMEDIAN/)
+6. [ADDTWOLL|Add Two Numbers (Linked List)](./ADDTWOLL/)
