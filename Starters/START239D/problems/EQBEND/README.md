@@ -1,0 +1,1 @@
+# [EQBEND|Beginnings and Endings](https://www.codechef.com/START239D/problems/EQBEND)

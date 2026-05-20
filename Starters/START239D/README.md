@@ -1,0 +1,10 @@
+# [START239D|STARTERS 239|Starters 239 (Rated till 5 star)](https://www.codechef.com/START239D)
+1. [TOURPLAN|Tour Plan](./problems/TOURPLAN/)
+2. [EZSPK|Easy Speaking](./problems/EZSPK/)
+3. [EQBEND|Beginnings and Endings](./problems/EQBEND/)
+4. [MIRRIM|Magic Mirror](./problems/MIRRIM/)
+5. [ROSEPL|Planting Roses](./problems/ROSEPL/)
+6. [GRVGOLF|Gravity Golf](./problems/GRVGOLF/)
+7. [SUBADDLXM0|Subarray Split (Easy)](./problems/SUBADDLXM0/)
+## Rankings
+[Ranks - START239D](https://www.codechef.com/rankings/START239D?itemsPerPage=100&order=asc&page=1&sortBy=rank)

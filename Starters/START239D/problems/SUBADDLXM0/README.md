@@ -1,0 +1,1 @@
+# [SUBADDLXM0|Subarray Split (Easy)](https://www.codechef.com/START239D/problems/SUBADDLXM0)

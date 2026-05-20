@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START239D/problems)
+1. [TOURPLAN|Tour Plan](./TOURPLAN/)
+2. [EZSPK|Easy Speaking](./EZSPK/)
+3. [EQBEND|Beginnings and Endings](./EQBEND/)
+4. [MIRRIM|Magic Mirror](./MIRRIM/)
+5. [ROSEPL|Planting Roses](./ROSEPL/)
+6. [GRVGOLF|Gravity Golf](./GRVGOLF/)
+7. [SUBADDLXM0|Subarray Split (Easy)](./SUBADDLXM0/)
