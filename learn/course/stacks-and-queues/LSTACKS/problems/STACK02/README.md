@@ -1,0 +1,1 @@
+# [STACK02|Use cases of Stack](https://www.codechef.com/learn/course/stacks-and-queues/LSTACKS/problems/STACK02)

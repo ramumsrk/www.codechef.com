@@ -1,0 +1,1 @@
+# [STACK12V|Peek, isEmpty, isFull in Stack](https://www.codechef.com/learn/course/stacks-and-queues/LSTACKS/problems/STACK12V)

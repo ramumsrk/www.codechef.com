@@ -1,0 +1,1 @@
+# [STACK16|Simulate Stack - 1](https://www.codechef.com/learn/course/stacks-and-queues/LSTACKS/problems/STACK16)

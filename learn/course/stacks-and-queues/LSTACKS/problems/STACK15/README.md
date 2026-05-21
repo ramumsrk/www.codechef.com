@@ -1,0 +1,1 @@
+# [STACK15|Simulate Push and Pop](https://www.codechef.com/learn/course/stacks-and-queues/LSTACKS/problems/STACK15)
