@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY004/problems)
+1. [WINLEAGUE|Win the league](./WINLEAGUE/)
+2. [DSCPPAS269P|Mountain Peak](./DSCPPAS269P/)
+3. [BBXJG01|Chef Builds Stack](./BBXJG01/)
+4. [CHEFDIST|Minimum Distance Between Two Nodes](./CHEFDIST/)
+5. [NUMISLAND2|Number of island 2](./NUMISLAND2/)
+6. [KOSARAJUS|Kosarajus Algorithm](./KOSARAJUS/)

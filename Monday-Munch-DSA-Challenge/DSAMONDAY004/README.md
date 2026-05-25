@@ -1,0 +1,7 @@
+# [DSAMONDAY004|DSA MONDAY MUNCH 04 (Rated For All)|Monday Munch - DSA Challenge 004 (Rated)](https://www.codechef.com/DSAMONDAY004)
+1. [WINLEAGUE|Win the league](./problems/WINLEAGUE/)
+2. [DSCPPAS269P|Mountain Peak](./problems/DSCPPAS269P/)
+3. [BBXJG01|Chef Builds Stack](./problems/BBXJG01/)
+4. [CHEFDIST|Minimum Distance Between Two Nodes](./problems/CHEFDIST)
+5. [NUMISLAND2|Number of island 2](./problems/NUMISLAND2/)
+6. [KOSARAJUS|Kosarajus Algorithm](./problems/KOSARAJUS/)
