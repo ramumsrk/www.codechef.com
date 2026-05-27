@@ -1,0 +1,1 @@
+# [FREQP|Partition](https://www.codechef.com/START240D/problems/FREQP)

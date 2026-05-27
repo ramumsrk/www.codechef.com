@@ -1,0 +1,1 @@
+# [RVBS|Binary Smile](https://www.codechef.com/START240D/problems/RVBS)

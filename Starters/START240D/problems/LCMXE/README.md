@@ -1,0 +1,1 @@
+# [LCMXE|Counting LCM (Easy)](https://www.codechef.com/START240D/problems/LCMXE)

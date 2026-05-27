@@ -1,0 +1,1 @@
+# [CYCYC|Comfortable Seating](https://www.codechef.com/START240D/problems/CYCYC)
