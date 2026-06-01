@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY005/problems)
+1. [CHEFHOTEL|Chef visits hotel](./CHEFHOTEL/)
+2. [SEARCHINARR|Search an element in an array](./SEARCHINARR/)
+3. [HEAP07P|Heap or not](./HEAP07P/)
+4. [LXYQY01|Chef Finds Maximum Profit](./LXYQY01/)
+5. [KDISTANCETRE|All the Nodes at a distance of K in a Binary Tree](./KDISTANCETRE/)
+6. [SERIALANDDES|Serialize and deserialize Binary Tree](./SERIALANDDES/)

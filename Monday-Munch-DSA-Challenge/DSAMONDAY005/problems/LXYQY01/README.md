@@ -1,0 +1,1 @@
+# [LXYQY01|Chef Finds Maximum Profit](https://www.codechef.com/DSAMONDAY005/problems/LXYQY01)

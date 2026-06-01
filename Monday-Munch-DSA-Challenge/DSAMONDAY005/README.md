@@ -1,0 +1,7 @@
+# [DSAMONDAY005|DSA MONDAY MUNCH 05 (Rated For All)|Monday Munch - DSA Challenge 005 (Rated)](https://www.codechef.com/DSAMONDAY005)
+1. [CHEFHOTEL|Chef visits hotel](./problems/CHEFHOTEL/)
+2. [SEARCHINARR|Search an element in an array](./problems/SEARCHINARR/)
+3. [HEAP07P|Heap or not](./problems/HEAP07P/)
+4. [LXYQY01|Chef Finds Maximum Profit](./problems/LXYQY01/)
+5. [KDISTANCETRE|All the Nodes at a distance of K in a Binary Tree](./problems/KDISTANCETRE/)
+6. [SERIALANDDES|Serialize and deserialize Binary Tree](./problems/SERIALANDDES/)
