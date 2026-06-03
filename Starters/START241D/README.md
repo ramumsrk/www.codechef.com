@@ -1,0 +1,10 @@
+# [START241D|STARTERS 241|Starters 241 (Rated till 5 star)](https://www.codechef.com/START241D)
+1. [RUNCHASE|Run Chase](./problems/RUNCHASE/)
+2. [EVENSUM1|Even Sum](./problems/EVENSUM1/)
+3. [SUMREDUCTION|Sum Reduction](./problems/SUMREDUCTION/)
+4. [NO3EQUAL|No 3 Equal](./problems/NO3EQUAL/)
+5. [CYCLICXOR7|Cyclic XOR](./problems/CYCLICXOR7/)
+6. [INCWINDOW|Increasing Windows](./problems/INCWINDOW/)
+7. [SUMSUBARR|Sum of Subarrays Again](./problems/SUMSUBARR/)
+## Contest Ranks
+[Ranks - START241D](https://www.codechef.com/rankings/START241D?itemsPerPage=100&order=asc&page=1&sortBy=rank)

@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START241D/problems)
+1. [RUNCHASE|Run Chase](./RUNCHASE/)
+2. [EVENSUM1|Even Sum](./EVENSUM1/)
+3. [SUMREDUCTION|Sum Reduction](./SUMREDUCTION/)
+4. [NO3EQUAL|No 3 Equal](./NO3EQUAL/)
+5. [CYCLICXOR7|Cyclic XOR](./CYCLICXOR7/)
+6. [INCWINDOW|Increasing Windows](./INCWINDOW/)
+7. [SUMSUBARR|Sum of Subarrays Again](./SUMSUBARR/)

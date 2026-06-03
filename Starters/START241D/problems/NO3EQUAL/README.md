@@ -1,0 +1,1 @@
+# [NO3EQUAL|No 3 Equal](https://www.codechef.com/START241D/problems/NO3EQUAL)
