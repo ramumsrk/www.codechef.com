@@ -1,0 +1,1 @@
+# [NUTANIX10|Minimum Platforms](https://www.codechef.com/DSAMONDAY006/problems/NUTANIX10)

@@ -1,0 +1,1 @@
+# [KSUBARRAYS|Subarray with k distinct number](https://www.codechef.com/DSAMONDAY006/problems/KSUBARRAYS)

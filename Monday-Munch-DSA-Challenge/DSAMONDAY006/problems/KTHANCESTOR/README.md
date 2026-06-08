@@ -1,0 +1,1 @@
+# [KTHANCESTOR|Kth ancestor of the node](https://www.codechef.com/DSAMONDAY006/problems/KTHANCESTOR)

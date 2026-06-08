@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY006/problems)
+1. [FLIGHTIME|Flight timings](./FLIGHTIME/)
+2. [PREP68|Difference Pairs](./PREP68/)
+3. [KSUBARRAYS|Subarray with k distinct number](./KSUBARRAYS/)
+4. [NUTANIX10|Minimum Platforms](./NUTANIX10/)
+5. [KTHANCESTOR|Kth ancestor of the node](./KTHANCESTOR/)
+6. [TREECOLOR|Distinct colors in subtrees](./TREECOLOR/)
