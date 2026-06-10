@@ -1,0 +1,10 @@
+# [START242D|STARTERS 242|Starters 242 (Rated till 5 star)](https://www.codechef.com/START242D)
+1. [SAMESIT|Seated Together](./problems/SAMESIT/)
+2. [EARLYWIN|Early Certificates](./problems/EARLYWIN/)
+3. [DRAFTPICK|Draft Picks](./problems/DRAFTPICK/)
+4. [EQMNG|Eventually Equal](./problems/EQMNG/)
+5. [BINBSR|Binary Sorting](./problems/BINBSR/)
+6. [SPLDIF|Split And Differ](./problems/SPLDIF/)
+7. [DISTDABB|Dabbling in Distribution](./problems/DISTDABB/)
+## Contest Ranks
+[Ranks - START242D](https://www.codechef.com/rankings/START242D?itemsPerPage=100&order=asc&page=1&sortBy=rank)

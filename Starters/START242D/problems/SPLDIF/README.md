@@ -1,0 +1,1 @@
+# [SPLDIF|Split And Differ](https://www.codechef.com/START242D/problems/SPLDIF)

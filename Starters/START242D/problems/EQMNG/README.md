@@ -1,0 +1,1 @@
+# [EQMNG|Eventually Equal](https://www.codechef.com/START242D/problems/EQMNG)

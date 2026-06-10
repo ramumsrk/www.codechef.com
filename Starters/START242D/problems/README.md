@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START242D/problems)
+1. [SAMESIT|Seated Together](./SAMESIT/)
+2. [EARLYWIN|Early Certificates](./EARLYWIN/)
+3. [DRAFTPICK|Draft Picks](./DRAFTPICK/)
+4. [EQMNG|Eventually Equal](./EQMNG/)
+5. [BINBSR|Binary Sorting](./BINBSR/)
+6. [SPLDIF|Split And Differ](./SPLDIF/)
+7. [DISTDABB|Dabbling in Distribution](./DISTDABB/)
