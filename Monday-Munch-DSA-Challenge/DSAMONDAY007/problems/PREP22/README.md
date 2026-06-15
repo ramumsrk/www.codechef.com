@@ -1,0 +1,1 @@
+# [PREP22|Largest Rectangle in Histogram](https://www.codechef.com/DSAMONDAY007/problems/PREP22)

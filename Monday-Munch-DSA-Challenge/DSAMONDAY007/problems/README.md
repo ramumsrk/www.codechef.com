@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY007/problems)
+1. [WINGAME|Win Game](./WINGAME/)
+2. [STONEABYSS|Stones of the Abyss](./STONEABYSS/)
+3. [DSCPPAS266|Reduce to Single Element Array](./DSCPPAS266/)
+4. [PREP22|Largest Rectangle in Histogram](./PREP22/)
+5. [DAA156|N Queens](./DAA156/)
+6. [RECTQUER|Rectangular Queries](./RECTQUER/)

@@ -1,0 +1,1 @@
+# [RECTQUER|Rectangular Queries](https://www.codechef.com/DSAMONDAY007/problems/RECTQUER)

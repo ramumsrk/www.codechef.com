@@ -1,0 +1,1 @@
+# [DAA156|N Queens](https://www.codechef.com/DSAMONDAY007/problems/DAA156)
