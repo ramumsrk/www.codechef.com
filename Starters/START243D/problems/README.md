@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START243D/problems)
+1. [INTMTCH|Interesting Match](./INTMTCH/)
+2. [LOSELESS|Lose Less](./LOSELESS/)
+3. [STRSEAT|Starved for Seating](./STRSEAT/)
+4. [OROPS](./OROPS/)
+5. [BINFLIP1|Binary Flipping (Easy)](./BINFLIP1/)
+6. [GCDARR|GCD Arrays (Easy)](./GCDARR/)
+7. [GCDARR2|GCD Arrays (Hard)](./GCDARR2/)

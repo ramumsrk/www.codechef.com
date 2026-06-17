@@ -1,0 +1,1 @@
+# [BINFLIP1|Binary Flipping (Easy)](https://www.codechef.com/START243D/problems/BINFLIP1)

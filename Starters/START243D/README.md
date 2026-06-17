@@ -1,0 +1,10 @@
+# 243. [START243D|STARTERS 243|Starters 243 (Rated till 6 star)](https://www.codechef.com/START243D)
+1. [INTMTCH|Interesting Match](./problems/INTMTCH/)
+2. [LOSELESS|Lose Less](./problems/LOSELESS/)
+3. [STRSEAT|Starved for Seating](./problems/STRSEAT/)
+4. [OROPS](./problems/OROPS/)
+5. [BINFLIP1|Binary Flipping (Easy)](./problems/BINFLIP1/)
+6. [GCDARR|GCD Arrays (Easy)](./problems/GCDARR/)
+7. [GCDARR2|GCD Arrays (Hard)](./problems/GCDARR2/)
+## Contest Ranks
+[Ranks - START243D](https://www.codechef.com/rankings/START243D?itemsPerPage=100&order=asc&page=1&sortBy=rank)

@@ -1,0 +1,1 @@
+# [STRSEAT|Starved for Seating](https://www.codechef.com/START243D/problems/STRSEAT)

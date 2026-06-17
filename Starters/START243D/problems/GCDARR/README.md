@@ -1,0 +1,1 @@
+# [GCDARR|GCD Arrays (Easy)](https://www.codechef.com/START243D/problems/GCDARR)
