@@ -1,0 +1,1 @@
+# [UELPQ01|Chef Solves Sudoku](https://www.codechef.com/DSAMONDAY008/problems/UELPQ01)

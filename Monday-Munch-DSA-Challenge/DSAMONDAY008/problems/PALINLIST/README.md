@@ -1,0 +1,1 @@
+# [PALINLIST|Check if Linked List is Palindrome](https://www.codechef.com/DSAMONDAY008/problems/PALINLIST)

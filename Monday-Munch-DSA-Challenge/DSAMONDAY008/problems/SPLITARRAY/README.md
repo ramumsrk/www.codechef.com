@@ -1,0 +1,1 @@
+# [SPLITARRAY|Split Array with Minimum Largest Sum](https://www.codechef.com/DSAMONDAY008/problems/SPLITARRAY)

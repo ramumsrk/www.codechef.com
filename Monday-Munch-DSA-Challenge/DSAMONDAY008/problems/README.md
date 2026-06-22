@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY008/problems)
+1. [CHEFMOVIE|Movie Night](./CHEFMOVIE/)
+2. [DSACPR66|Find smallest and largest numbers](./DSACPR66/)
+3. [PALINLIST|Check if Linked List is Palindrome](./PALINLIST/)
+4. [SUBSEQSUMYN|Subsequence Sum K](./SUBSEQSUMYN/)
+5. [SPLITARRAY|Split Array with Minimum Largest Sum](./SPLITARRAY/)
+6. [UELPQ01|Chef Solves Sudoku](./UELPQ01/)

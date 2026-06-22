@@ -1,0 +1,1 @@
+# [SUBSEQSUMYN|Subsequence Sum K](https://www.codechef.com/DSAMONDAY008/problems/SUBSEQSUMYN)

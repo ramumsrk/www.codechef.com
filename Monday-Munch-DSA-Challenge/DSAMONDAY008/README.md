@@ -1,0 +1,7 @@
+# [DSAMONDAY008|DSA MONDAY MUNCH 08 (Rated For All)|Monday Munch - DSA Challenge 008 (Rated)](https://www.codechef.com/DSAMONDAY008)
+1. [CHEFMOVIE|Movie Night](./problems/CHEFMOVIE/)
+2. [DSACPR66|Find smallest and largest numbers](./problems/DSACPR66/)
+3. [PALINLIST|Check if Linked List is Palindrome](./problems/PALINLIST/)
+4. [SUBSEQSUMYN|Subsequence Sum K](./problems/SUBSEQSUMYN/)
+5. [SPLITARRAY|Split Array with Minimum Largest Sum](./problems/SPLITARRAY/)
+6. [UELPQ01|Chef Solves Sudoku](./problems/UELPQ01/)
