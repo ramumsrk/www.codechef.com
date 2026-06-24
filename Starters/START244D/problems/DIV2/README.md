@@ -1,0 +1,1 @@
+# [DIV2|Dividing by 2](https://www.codechef.com/START244D/problems/DIV2)
