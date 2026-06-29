@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY009/problems)
+1. [CODEXP|CodeChef XP](./CODEXP/)
+2. [DSACPR49|Leader of an Array](./DSACPR49/)
+3. [SUBTWO|Least Common Anagram](./SUBTWO/)
+4. [MATROTAPPLE|Rotting Apples](./MATROTAPPLE/)
+5. [FRNCH|Table Partitioning](./FRNCH/)
+6. [PALNESS|Palindromic Level](./PALNESS/)

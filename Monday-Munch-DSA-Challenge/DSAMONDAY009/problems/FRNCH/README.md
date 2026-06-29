@@ -1,0 +1,1 @@
+# [FRNCH|Table Partitioning](https://www.codechef.com/DSAMONDAY009/problems/FRNCH)
