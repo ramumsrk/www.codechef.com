@@ -19,7 +19,7 @@ leader_of_an_array(
         bool is_left_greater {true};
         for (int i {}; i <= N-2; i += 1) {
             for (int j {i+1}; j < N; j += 1) {
-                if (A[i] < A[j]) {
+                if (A[i] <= A[j]) {
                     is_left_greater = false;
                     break;
                 }else {
