@@ -1,0 +1,1 @@
+# [TRTR3|Triple Threat](https://www.codechef.com/START245D/problems/TRTR3)

@@ -1,0 +1,1 @@
+# [NODV|Not Divisible](https://www.codechef.com/START245D/problems/NODV)

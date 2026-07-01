@@ -1,0 +1,1 @@
+# [EQEXCH|Equivalent Exchange](https://www.codechef.com/START245D/problems/EQEXCH)

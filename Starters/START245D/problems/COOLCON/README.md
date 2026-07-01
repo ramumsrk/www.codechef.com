@@ -1,0 +1,1 @@
+# [COOLCON|COOLCON](https://www.codechef.com/START245D/problems/COOLCON)

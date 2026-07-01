@@ -1,0 +1,1 @@
+# [AMAZAUC|Amazing Auction](https://www.codechef.com/START245D/problems/AMAZAUC)

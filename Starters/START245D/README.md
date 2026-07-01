@@ -1,0 +1,12 @@
+# [START245D|STARTERS 245|Starters 245 (Rated till 6 star)](https://www.codechef.com/START245D)
+1. [FAVWD|Favorite Words](./problems/FAVWD)
+2. [COOLCON|COOLCON](./problems/COOLCON/)
+3. [EQEXCH|Equivalent Exchange](./problems/EQEXCH/)
+4. [TRTR3|Triple Threat](./problems/TRTR3/)
+5. [NODV|Not Divisible](./problems/NODV/)
+6. [AMAZAUC|Amazing Auction](./problems/AMAZAUC/)
+7. [TRFTRBEZ|Traffic Trouble (Easy)](./problems/TRFTRBEZ/)
+8. [TRFTRBHD|Traffic Trouble (Hard)](./problems/TRFTRBHD/)
+9. [PROXBOM|Proximity Bomb](./problems/PROXBOM/)
+## Contest Ranks
+[Ranks - START245D](https://www.codechef.com/rankings/START245D?itemsPerPage=100&order=asc&page=1&sortBy=rank)
