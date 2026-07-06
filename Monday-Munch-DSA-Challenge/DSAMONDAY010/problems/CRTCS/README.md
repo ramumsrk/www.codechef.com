@@ -1,0 +1,1 @@
+# [Critics Special|CRTCS](https://www.codechef.com/DSAMONDAY010/problems/CRTCS)

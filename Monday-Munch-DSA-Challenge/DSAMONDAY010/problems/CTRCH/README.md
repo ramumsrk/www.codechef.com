@@ -1,0 +1,1 @@
+# [The Catering Challenge|CTRCH](https://www.codechef.com/DSAMONDAY010/problems/CTRCH)

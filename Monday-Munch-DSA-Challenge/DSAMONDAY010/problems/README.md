@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY010/problems)
+1. [POWERGRID|Power Grid](./POWERGRID/)
+2. [ROBOHELP|Chef and the Frisbee](./ROBOHELP/)
+3. [Chef and the Gemstones|CHEFGEM](./CHEFGEM/)
+4. [The Catering Challenge|CTRCH](./CTRCH/)
+5. [Critics Special|CRTCS](./CRTCS/)
+6. [Drone Rendezvous|DRONZ](./DRONZ/)

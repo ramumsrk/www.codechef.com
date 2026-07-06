@@ -1,0 +1,1 @@
+# [Chef and the Gemstones|CHEFGEM](https://www.codechef.com/DSAMONDAY010/problems/CHEFGEM)
