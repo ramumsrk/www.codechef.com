@@ -1,0 +1,1 @@
+# [Sequence (Hard)|SEQ2](https://www.codechef.com/START246D/problems/SEQ2)

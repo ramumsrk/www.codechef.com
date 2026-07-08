@@ -1,0 +1,10 @@
+# [START246D|STARTERS 246|Starters 246 (Rated till 4 star)](https://www.codechef.com/START246D)
+1. [Point Calculation|POINTCAL](./problems/POINTCAL/)
+2. [Plant|TEMPPLANT](./problems/TEMPPLANT/)
+3. [Red Yellow Cards|RYCARDS](./problems/RYCARDS/)
+4. [Waiting (Easy)|WAIT1](./problems/WAIT1/)
+5. [Waiting (Hard)|WAIT2](./problems/WAIT2/)
+6. [Sequence (Easy)|SEQ1](./problems/SEQ1/)
+7. [Sequence (Hard)|SEQ2](./problems/SEQ2/)
+## Contest Ranks
+[Ranks - START246D](https://www.codechef.com/rankings/START246D?itemsPerPage=100&order=asc&page=1&sortBy=rank)

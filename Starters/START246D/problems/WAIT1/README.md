@@ -1,0 +1,1 @@
+# [Waiting (Easy)|WAIT1](https://www.codechef.com/START246D/problems/WAIT1)

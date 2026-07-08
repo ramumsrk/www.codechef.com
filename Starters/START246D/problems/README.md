@@ -1,0 +1,8 @@
+# [problems](https://www.codechef.com/START246D/problems)
+1. [Point Calculation|POINTCAL](./POINTCAL/)
+2. [Plant|TEMPPLANT](./TEMPPLANT/)
+3. [Red Yellow Cards|RYCARDS](./RYCARDS/)
+4. [Waiting (Easy)|WAIT1](./WAIT1/)
+5. [Waiting (Hard)|WAIT2](./WAIT2/)
+6. [Sequence (Easy)|SEQ1](./SEQ1/)
+7. [Sequence (Hard)|SEQ2](./SEQ2/)
