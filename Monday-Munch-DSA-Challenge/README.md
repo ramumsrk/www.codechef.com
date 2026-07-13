@@ -1,4 +1,5 @@
 # Monday Munch - DSA Challenge Series
+11. [DSAMONDAY011|DSA MONDAY MUNCH 11 (Rated For All)|Monday Munch - DSA Challenge 011 (Rated)](./DSAMONDAY011/)
 10. [DSAMONDAY010|DSA MONDAY MUNCH 10 (Rated For All)|Monday Munch - DSA Challenge 010 (Rated)](./DSAMONDAY010/)
 9. [DSAMONDAY009|DSA MONDAY MUNCH 09 (Rated For All)|Monday Munch - DSA Challenge 009 (Rated)](./DSAMONDAY009/)
 8. [DSAMONDAY008|DSA MONDAY MUNCH 08 (Rated For All)|Monday Munch - DSA Challenge 008 (Rated)](./DSAMONDAY008/)

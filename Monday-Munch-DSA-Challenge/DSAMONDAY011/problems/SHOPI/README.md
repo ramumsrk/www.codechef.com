@@ -1,0 +1,1 @@
+# [SHOPI|Toy Boxes](https://www.codechef.com/DSAMONDAY011/problems/SHOPI)

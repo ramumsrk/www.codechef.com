@@ -1,0 +1,7 @@
+# [DSAMONDAY011|DSA MONDAY MUNCH 11 (Rated For All)|Monday Munch - DSA Challenge 011 (Rated)](https://www.codechef.com/DSAMONDAY011)
+1. [SALARY1|Monthly Earnings](./problems/SALARY1/)
+2. [CHOCO1|Chocolate Squares](./problems/CHOCO1/)
+3. [SHOPI|Toy Boxes](./problems/SHOPI/)
+4. [MXSBDF|Maximize Subarray Difference](./problems/MXSBDF/)
+5. [GTRAIN|Shopping and Coins](./problems/GTRAIN/)
+6. [NECK|Bead Necklaces](./problems/NECK/)

@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY011/problems)
+1. [SALARY1|Monthly Earnings](./SALARY1/)
+2. [CHOCO1|Chocolate Squares](./CHOCO1/)
+3. [SHOPI|Toy Boxes](./SHOPI/)
+4. [MXSBDF|Maximize Subarray Difference](./MXSBDF/)
+5. [GTRAIN|Shopping and Coins](./GTRAIN/)
+6. [NECK|Bead Necklaces](./NECK/)

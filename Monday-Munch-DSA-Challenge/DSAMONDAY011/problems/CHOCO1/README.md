@@ -1,0 +1,1 @@
+# [CHOCO1|Chocolate Squares](https://www.codechef.com/DSAMONDAY011/problems/CHOCO1)

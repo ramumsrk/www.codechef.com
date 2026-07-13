@@ -1,0 +1,1 @@
+# [MXSBDF|Maximize Subarray Difference](https://www.codechef.com/DSAMONDAY011/problems/MXSBDF)
