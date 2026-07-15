@@ -1,0 +1,1 @@
+# [ALTARR|Alternating Array](https://www.codechef.com/START247D/problems/ALTARR)

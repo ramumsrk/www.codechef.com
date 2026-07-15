@@ -1,0 +1,1 @@
+# [SQPAPER|Square Paper](https://www.codechef.com/START247D/problems/SQPAPER)

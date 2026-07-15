@@ -1,0 +1,1 @@
+# [FLIP2K|Fair Flipping (Easy)](https://www.codechef.com/START247D/problems/FLIP2K)

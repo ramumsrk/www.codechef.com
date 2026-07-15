@@ -1,0 +1,1 @@
+# [STRINGSHIFT|Substring Shift](https://www.codechef.com/START247D/problems/STRINGSHIFT)
