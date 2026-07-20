@@ -1,0 +1,1 @@
+# [FCTPR|Factory Production](https://www.codechef.com/DSAMONDAY012/problems/FCTPR)

@@ -1,0 +1,1 @@
+# [SBMD|Window Medians](https://www.codechef.com/DSAMONDAY012/problems/SBMD)

@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY012/problems)
+1. [ACT01|Pen Shortage](./ACT01/)
+2. [CANDY01|Candy Distribution](./CANDY01/)
+3. [FCTPR|Factory Production](./FCTPR/)
+4. [CONN01|Group Formation](./CONN01/)
+5. [GRPR01|Grid Propagation](./GRPR01/)
+6. [SBMD|Window Medians](./SBMD/)
