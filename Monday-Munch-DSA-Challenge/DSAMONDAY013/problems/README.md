@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY013/problems)
+1. [UTNL|Unlock the Next Level](./UTNL/)
+2. [ARCO|Array Compression](./ARCO/)
+3. [VACDI|Vaccine Distribution](./VACDI/)
+4. [PRCO|Palindrome Counter](./PRCO/)
+5. [ROCU|Maximize Wood Value](./ROCU/)
+6. [SMSWP|Smart Swap](./SMSWP/)
