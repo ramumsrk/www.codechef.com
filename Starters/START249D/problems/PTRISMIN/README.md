@@ -1,0 +1,1 @@
+# [PTRISMIN|Point Rise](https://www.codechef.com/START249D/problems/PTRISMIN)

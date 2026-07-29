@@ -1,0 +1,1 @@
+# [UPDWPAL|Up-Down Palindrome](https://www.codechef.com/START249D/problems/UPDWPAL)

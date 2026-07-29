@@ -1,0 +1,1 @@
+# [PRDEXC|Product Exceed](https://www.codechef.com/START249D/problems/PRDEXC)

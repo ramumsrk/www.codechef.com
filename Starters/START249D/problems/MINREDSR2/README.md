@@ -1,0 +1,1 @@
+# [MINREDSR2|Moving Blue Boxes (Hard)](https://www.codechef.com/START249D/problems/MINREDSR2)

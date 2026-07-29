@@ -1,0 +1,1 @@
+# [GPUBUY|Buying GPU](https://www.codechef.com/START249D/problems/GPUBUY)
