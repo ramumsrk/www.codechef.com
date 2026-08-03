@@ -1,0 +1,1 @@
+# [CLSC|Closest Scores](https://www.codechef.com/DSAMONDAY014/problems/CLSC)

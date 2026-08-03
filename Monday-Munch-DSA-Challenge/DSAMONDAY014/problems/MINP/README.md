@@ -1,0 +1,1 @@
+# [MINP|Minimum Incompatibility Partition](https://www.codechef.com/DSAMONDAY014/problems/MINP)

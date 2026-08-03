@@ -1,0 +1,7 @@
+# [problems](https://www.codechef.com/DSAMONDAY014/problems)
+1. [SNCO|Equal Chocolates](./SNCO/)
+2. [BAIN|Balanced Ingredients](./BAIN/)
+3. [CLSC|Closest Scores](./CLSC/)
+4. [RMWS|Range Minimum with Swaps](./RMWS/)
+5. [MINP|Minimum Incompatibility Partition](./MINP/)
+6. [MDIT|Maximum Difference in a Tree](./MDIT/)
