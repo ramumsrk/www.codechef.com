@@ -1,0 +1,12 @@
+# [START251D|STARTERS 251|Starters 251 (Rated till 6 star)](./START251D/)
+1. [CHKEV|Check Even](./problems/CHKEV/)
+2. [BUSROW|Bus Rows](./problems/BUSROW/)
+3. [MUL123|Make Multiple](./problems/MUL123/)
+4. [CHOCGM|Chocolate Game](./problems/CHOCGM/)
+5. [BINSPLT|Binary Split](./problems/BINSPLT/)
+6. [MAKEDISTK|Make Distinct](./problems/MAKEDISTK/)
+7. [BINSPLTHD|Binary Split (Hard)](./problems/BINSPLTHD/)
+8. [MAKEDISTKHD|Make Distinct (Hard)](./problems/MAKEDISTKHD/)
+9. [SEPA|Separation](./problems/SEPA/)
+## Contest Ranks
+[Ranks - START251D](https://www.codechef.com/rankings/START251D?itemsPerPage=100&order=asc&page=1&sortBy=rank)
