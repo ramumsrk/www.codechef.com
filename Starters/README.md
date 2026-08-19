@@ -1,4 +1,5 @@
 # Starters
+252. [START252D|STARTERS 252|Starters 252 (Rated till 5 star)](./START252D/)
 251. [START251D|STARTERS 251|Starters 251 (Rated till 6 star)](./START251D/)
 249. [START249D|STARTERS 249|Starters 249 (Rated till 6 star)](./START249D/)
 247. [START247D|STARTERS 247|Starters 247 (Rated till 5 star)](./START247D/)
